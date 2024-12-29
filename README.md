@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React JS Landing Page Template
 
 **
@@ -32,3 +33,6 @@ If you need the contact form to work, you also need to create an EmailJS account
 <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
 
 ##### Issaaf kattan
+=======
+# webProject
+>>>>>>> 6865fd4b8db7bfe3ed9a415d3fe5969eec9cb030
